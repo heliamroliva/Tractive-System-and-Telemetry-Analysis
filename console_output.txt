@@ -1,0 +1,14 @@
+﻿Initial: Idle
+CloseContactors
+WaitR2D
+StartInverter
+Buzzer started
+Buzzer
+R2D LED on
+After buzzer: Driving
+No message for 200 ms: Driving
+Inverter stopped
+No message for 201 ms: Error
+Open SDC after Error: Error
+Inverter stopped
+Initialisation fault: Error

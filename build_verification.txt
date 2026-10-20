@@ -1,0 +1,9 @@
+Verification date: 2026-10-20 (Asia/Shanghai)
+Compiler: g++.exe (Rev4, Built by MSYS2 project) 16.2.0
+Flags: -std=c++17 -Wall -Wextra -Wpedantic
+Build 1: g++ -std=c++17 -Wall -Wextra -Wpedantic src/WR_TS.cpp -o WR_TS.exe
+Build 2: g++ -std=c++17 -Wall -Wextra -Wpedantic src/WR_TS_1.cpp -o WR_TS_1.exe
+Both builds: exit code 0; no diagnostics printed.
+Both runs: exit code 0; outputs matched line by line.
+The two stdout captures are adjacent to this file.
+No physical hardware or live communication was tested.
