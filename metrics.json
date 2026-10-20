@@ -1,0 +1,13 @@
+{
+  "matlab_version": "26.2.0.3386108 (R2026b)",
+  "samples": 1281,
+  "duration_s": 64,
+  "lap_length_km": 0.8567,
+  "net_energy_kWh": 0.21682005555555553,
+  "recovered_energy_kWh": 0.024559930555555547,
+  "estimated_net_22km_kWh": 5.5679248537670381,
+  "front_fit_slope": -0.45517213754358837,
+  "front_fit_intercept_mm": -3.6635440172769518,
+  "rear_fit_slope": 0.58712034846363259,
+  "rear_fit_intercept_mm": 18.9890255692431
+}

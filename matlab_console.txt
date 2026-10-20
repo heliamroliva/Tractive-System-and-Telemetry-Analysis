@@ -1,0 +1,123 @@
+Position: 0.0 - 12.2 m
+Maximum slip ratio: 6.7 %
+
+Position: 15.7 - 37.5 m
+Maximum slip ratio: 7.9 %
+
+Position: 39.4 - 74.6 m
+Maximum slip ratio: 12.6 %
+
+Position: 81.8 - 102.7 m
+Maximum slip ratio: 9.7 %
+
+Position: 103.8 - 104.4 m
+Maximum slip ratio: 1.5 %
+
+Position: 105.5 - 108.5 m
+Maximum slip ratio: 5.5 %
+
+Position: 109.7 - 109.7 m
+Maximum slip ratio: 3.8 %
+
+Position: 111.0 - 117.5 m
+Maximum slip ratio: 4.5 %
+
+Position: 119.3 - 119.3 m
+Maximum slip ratio: -1.6 %
+
+Position: 122.3 - 122.3 m
+Maximum slip ratio: -0.8 %
+
+Position: 124.1 - 124.1 m
+Maximum slip ratio: 0.4 %
+
+Position: 125.3 - 125.3 m
+Maximum slip ratio: 1.1 %
+
+Position: 126.5 - 160.3 m
+Maximum slip ratio: 12.4 %
+
+Position: 166.6 - 187.4 m
+Maximum slip ratio: 6.5 %
+
+Position: 189.5 - 193.4 m
+Maximum slip ratio: 9.1 %
+
+Position: 194.6 - 226.1 m
+Maximum slip ratio: 9.2 %
+
+Position: 232.2 - 292.6 m
+Maximum slip ratio: 21.5 %
+
+Position: 294.3 - 294.3 m
+Maximum slip ratio: 8.4 %
+
+Position: 295.5 - 295.5 m
+Maximum slip ratio: 7.7 %
+
+Position: 298.2 - 323.1 m
+Maximum slip ratio: 7.1 %
+
+Position: 324.6 - 347.2 m
+Maximum slip ratio: 9.5 %
+
+Position: 348.5 - 349.1 m
+Maximum slip ratio: 0.5 %
+
+Position: 351.6 - 351.6 m
+Maximum slip ratio: -3.0 %
+
+Position: 354.1 - 428.8 m
+Maximum slip ratio: 9.0 %
+
+Position: 430.8 - 431.4 m
+Maximum slip ratio: 1.7 %
+
+Position: 433.4 - 433.4 m
+Maximum slip ratio: 0.9 %
+
+Position: 435.0 - 436.7 m
+Maximum slip ratio: 3.5 %
+
+Position: 437.8 - 456.4 m
+Maximum slip ratio: 13.1 %
+
+Position: 458.2 - 467.3 m
+Maximum slip ratio: 9.1 %
+
+Position: 468.5 - 512.2 m
+Maximum slip ratio: 11.7 %
+
+Position: 518.5 - 522.6 m
+Maximum slip ratio: 10.8 %
+
+Position: 526.9 - 692.6 m
+Maximum slip ratio: 8.2 %
+
+Position: 695.1 - 755.7 m
+Maximum slip ratio: 19.1 %
+
+Position: 764.7 - 768.6 m
+Maximum slip ratio: 12.6 %
+
+Position: 770.0 - 809.4 m
+Maximum slip ratio: 13.2 %
+
+Position: 810.4 - 810.4 m
+Maximum slip ratio: -2.3 %
+
+Position: 813.8 - 848.4 m
+Maximum slip ratio: 25.3 %
+
+Position: 849.7 - 856.7 m
+Maximum slip ratio: 8.7 %
+
+z_front = -0.455 * a_x + -3.664
+z_rear = 0.587 * a_x + 18.989
+
+Q2(d):
+Net energy used on this lap: 0.2168 kWh
+Energy recovered through regenerative braking: 0.0246 kWh
+Estimated net energy required for 22 km: 5.57 kWh
+
+Exported four figures and metrics.json to C:\c_project\wr_portfolio\Q2\src\..\results
